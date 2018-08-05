@@ -1,6 +1,7 @@
 #include "s3c6410macro.h"
 
 //test ldc 
+//test lzl
 
 #define AD12 16
 void adcInit(void)
